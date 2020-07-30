@@ -75,7 +75,6 @@ services:
 #    volumes:
 #      - ./kibana/config/kibana.yml:/usr/share/kibana/config/kibana.yml
 
-
 volumes:
   esdata01:
     driver: local
